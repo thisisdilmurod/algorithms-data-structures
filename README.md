@@ -1,5 +1,3 @@
-![image](https://github.com/thisisdilmurod/algorithms-data-structures/assets/100064552/874242db-6ac2-41ed-9bb3-01a9ac6a3afe)
-
 ## Fundamentals Algorithms and Data Structures in Python
 
 This repository provides fundamental algorithms and data structures written using Python. It draws inspiration from sources, such as [Neetcode 150](https://neetcode.io/practice), [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms), 
