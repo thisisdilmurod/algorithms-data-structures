@@ -2,8 +2,8 @@
 
 ## Fundamentals Algorithms and Data Structures in Python
 
-This repository provides fundamental algorithms and data structures written using Python. It draws inspiration from reputable sources, such as [Neetcode 150](https://neetcode.io/practice), [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms), 
-and [CS6.006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/). Explore this collection to enhance your coding abilities and gain a deeper understanding of key concepts of computer science. Author: [Dilmurod Abdusamadov](https://www.github.com/thisisdilmurod).
+This repository provides fundamental algorithms and data structures written using Python. It draws inspiration from sources, such as [Neetcode 150](https://neetcode.io/practice), [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms), 
+and [CS6.006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/). Explore this collection to enhance your coding abilities and gain a deeper understanding of concepts of computer science. Author: [Dilmurod Abdusamadov](https://www.github.com/thisisdilmurod).
 
 ## Contents
 
