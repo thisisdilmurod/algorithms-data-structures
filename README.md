@@ -9,7 +9,7 @@ and [CS6.006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-sprin
 
 1. **Algorithms**: Discover a wide variety of algorithms for sorting, searching, graph traversal, etc.
 
-2. **Data Structures**: Learn how to create and use data structures such as arrays, linked lists, trees, stacks, and queues.
+2. **Data Structures**: Create and use data structures such as arrays, linked lists, trees, stacks, and queues.
 
 ## Getting Started
 
