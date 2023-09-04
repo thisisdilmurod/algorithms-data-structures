@@ -18,9 +18,9 @@ To access the materials in this repository, you can use one of the following met
 **Using HTTPS**
 
 - Run the following command to clone the repository using HTTPS:
-   ```shell
-   git clone https://github.com/thisisdilmurod/algorithms-data-structures.git
-   ```
+```shell
+git clone https://github.com/thisisdilmurod/algorithms-data-structures.git
+```
 - You will be prompted to enter your GitHub username and password to authenticate.
 - Once the cloning process is complete, you will have the repository contents in your local directory.
 
